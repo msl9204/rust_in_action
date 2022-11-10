@@ -1,5 +1,5 @@
-mod ex2_27;
+mod ex2_30;
 
 fn main() {
-    ex2_27::example();
+    ex2_30::example();
 }
