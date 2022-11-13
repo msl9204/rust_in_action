@@ -1,5 +1,6 @@
-mod ex2_30;
+mod chapter3;
+use chapter3::*;
 
 fn main() {
-    ex2_30::example();
+    ex3_2::example()
 }
