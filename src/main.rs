@@ -1,6 +1,6 @@
-mod chapter5;
-use chapter5::*;
+mod chapter6;
+use chapter6::*;
 
 fn main() {
-    ex5_20::example()
+    ex6_3::example()
 }
