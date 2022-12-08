@@ -1,6 +1,6 @@
-mod chapter7;
-use chapter7::*;
+mod tutorial;
+use tutorial::*;
 
 fn main() {
-    ex7_4::example();
+    rbook_drop::example();
 }
