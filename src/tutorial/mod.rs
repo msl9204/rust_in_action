@@ -6,3 +6,4 @@ pub mod rbook_rc;
 pub mod rbook_refcell;
 pub mod rbook_circle;
 pub mod rbook_mutex;
+pub mod rbook_oop;
